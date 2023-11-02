@@ -1,0 +1,85 @@
+{
+  "ITEM01" : {
+    "name" : "Crack Cocaine",
+    "category" : "Drugs",
+    "amount" : {
+      "amount" : 1,
+      "amountUnit" : "Kg"
+    },
+    "price" : 99999.99,
+    "imageUrl" : ""
+  },
+  "ITEM02" : {
+    "name" : "Methamphetamine",
+    "category" : "Drugs",
+    "amount" : 1,
+    "amountUnit" : "Oz",
+    "price" : 499.99,
+    "imageUrl" : ""
+  },
+  "ITEM03" : {
+    "name" : "Glock 9mm",
+    "category" : "Weapons",
+    "amount" : 2,
+    "amountUnit" : "Pc",
+    "price" : 999.99,
+    "imageUrl" : ""
+  },
+  "ITEM04" : {
+    "name" : "Kalashnikov",
+    "category" : "Weapons",
+    "amount" : 1,
+    "amountUnit" : "Pc",
+    "price" : 2999.99,
+    "imageUrl" : ""
+  },
+  "ITEM05" : {
+    "name" : "RPG-7",
+    "category" : "Weapons",
+    "amount" : 1,
+    "amountUnit" : "Pc",
+    "price" : 59999.99,
+    "imageUrl" : ""
+  },
+  "ITEM06" : {
+    "name" : "C4",
+    "category" : "Explosives",
+    "amount" : 1,
+    "amountUnit" : "Kg",
+    "price" : 3999.99,
+    "imageUrl" : ""
+  },
+  "ITEM07" : {
+    "name" : "Canabis",
+    "category" : "Drugs",
+    "amount" : 100,
+    "amountUnit" : "Gm",
+    "price" : 99.99,
+    "imageUrl" : ""
+  },
+  "ITEM08" : {
+    "name" : "Car Accident",
+    "category" : "Hits",
+    "amount" : 1,
+    "amountUnit" : "Person",
+    "price" : 29999.99,
+    "imageUrl" : ""
+  },
+  "ITEM09" : {
+    "name" : "Kidnapping",
+    "category" : "Hits",
+    "amount" : 1,
+    "amountUnit" : "Person",
+    "price" : 19999.99,
+    "imageUrl" : ""
+  },
+  "ITEM10" : {
+    "name" : "Votes",
+    "category" : "Fraud",
+    "amount" : 1000,
+    "amountUnit" : "Votes",
+    "price" : 4999.99,
+    "imageUrl" : ""
+  }
+  
+}
